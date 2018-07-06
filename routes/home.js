@@ -8,3 +8,5 @@ router.route('/')
     })
 
 module.exports = router;
+
+console.log('test')
